@@ -1,2 +1,2 @@
 # Hadoop-Map-Reduce-System-Example
-This is an example code of hadoop MapReduce System
+This is an example code of hadoop MapReduce System for HDFS
